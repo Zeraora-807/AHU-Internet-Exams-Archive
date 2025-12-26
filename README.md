@@ -39,11 +39,11 @@
 
 ### 📞 联系方式 | Contact
 
-> Repository Owner: ZeraoraBot (a.k.a Genarch)
+> 维护者: ZeraoraBot (a.k.a Genarch)
 
-- Email: LeeSR0Ge@outlook.com
+- 邮箱: LeeSR0Ge@outlook.com
 
-- Major: Network Engineering
+- 主修专业: 网络工程
 
 ## 免责声明 | Disclaimer
 
@@ -51,11 +51,11 @@
 
 **本仓库与学校官方无关，最终解释权归维护者所有。**
 
-**============================**
+**===========================**
 
 **╰(*°▽°*)╯ 我是分界线**
 
-**============================**
+**===========================**
 
 # Past Materials Archive of School of Internet, Anhui University
 
