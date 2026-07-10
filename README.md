@@ -8,10 +8,10 @@
 
 ## 简介 | Introduction
 
-### 📌 致屏幕前的你 | To You
+###  致屏幕前的你 | To You
 资料库的完善离不开每一位同学的支持。若你手中有优质的学习资料，欢迎参与补充；若发现内容有误或需要更新，也请随时向Contributors指正。
 
-### 📚 资料类型 | Types of Materials
+###  资料类型 | Types of Materials
 
 - 历年试题：期中、期末及各类考试真题
 
@@ -21,7 +21,7 @@
 
 - （待补充）
 
-### ⚠️ 使用说明 | Instructions
+###  使用说明 | Instructions
 1. 本仓库所有资料仅用于内部学习交流，请不要在不合适的地方传播
 
 2. 不以任何商业目的传播使用
@@ -30,7 +30,7 @@
 
 4. 内容仅供参考，请以授课教师要求为准
 
-### 🤝 参与贡献 | Contribution
+###  参与贡献 | Contribution
 欢迎通过以下方式参与贡献：
 
 - 提交 Pull Request - 直接添加/更新资料
@@ -39,7 +39,7 @@
 
 - 联系维护者 - 见下文
 
-### 📞 联系方式 | Contact
+###  联系方式 | Contact
 
 > 维护者: ZeraoraBot (a.k.a Genarch)
 
@@ -67,10 +67,10 @@ This repository is voluntarily collected, organized, and maintained by students 
 
 ## Introduction
 
-### 📌 To You
+###  To You
 The improvement of this repository relies on the support of every student in our school. If you have valuable learning materials, we welcome your contributions. If you find any inaccuracies or areas needing updates, please feel free to provide feedback to the Contributors.
 
-### 📚 Types of Materials
+###  Types of Materials
 
 - Past exam papers: midterm, final, and other exam papers
 
@@ -80,7 +80,7 @@ The improvement of this repository relies on the support of every student in our
 
 - (To be added)
 
-### ⚠️ Instructions
+###  Instructions
 1. All materials in this repository are for internal academic exchange only. Please avoid sharing them in inappropriate contexts.
 
 2. Do not use these materials for commercial purposes.
@@ -89,7 +89,7 @@ The improvement of this repository relies on the support of every student in our
 
 4. The content is for reference only. Always prioritize instructions from course instructors.
 
-### 🤝 Contribution
+###  Contribution
 We welcome contributions through the following methods:
 
 - Submit a Pull Request to directly add or update materials.
@@ -98,7 +98,7 @@ We welcome contributions through the following methods:
 
 - Contact the maintainers (see below).
 
-### 📞 Contact
+###  Contact
 
 > Repository Owner: ZeraoraBot (a.k.a Genarch)
 
