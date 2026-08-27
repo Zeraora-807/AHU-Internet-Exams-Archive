@@ -1,4 +1,4 @@
-![A Picture with Mega Zeraora](https://github.com/Zeraora-807/AHU-Internet-Exams-Archive/blob/main/You%20don't%20need%20to%20read%20this%20directory%200w0/images/zeraora.jpg)
+![A Picture](https://github.com/Zeraora-807/AHU-Internet-Exams-Archive/blob/main/You%20don't%20need%20to%20read%20this%20directory%200w0/images/profile.jpg)
 
 # 安徽大学互联网学院历年资料库
 
